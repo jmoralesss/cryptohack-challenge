@@ -1,3 +1,7 @@
 encoding/ascii/Main
 encoding/ascii/Main.hi
 encoding/ascii/Main.o
+
+encoding/hex/Main
+encoding/hex/Main.hi
+encoding/hex/Main.o

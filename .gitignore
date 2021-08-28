@@ -5,3 +5,7 @@ encoding/ascii/Main.o
 encoding/hex/Main
 encoding/hex/Main.hi
 encoding/hex/Main.o
+
+encoding/base64/Main
+encoding/base64/Main.hi
+encoding/base64/Main.o

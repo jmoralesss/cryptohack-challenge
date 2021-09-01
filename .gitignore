@@ -9,3 +9,7 @@ encoding/hex/Main.o
 encoding/base64/Main
 encoding/base64/Main.hi
 encoding/base64/Main.o
+
+encoding/bytes-and-big-integers/Main
+encoding/bytes-and-big-integers/Main.hi
+encoding/bytes-and-big-integers/Main.o
